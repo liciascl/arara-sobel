@@ -25,15 +25,15 @@ Objetivo: reduzir acessos à memória global
 
 Meça o tempo de execução e complete a tabela:
 
-| Versão         | Block Size | Tempo (ms) | Speedup |
-|---------------|-----------|-----------|--------|
-| CPU           | -         |           |        |
-| GPU ingênua   | 8×8       |           |        |
-| GPU otimizada | 8×8       |           |        |
-| GPU ingênua   | 16×16     |           |        |
-| GPU otimizada | 16×16     |           |        |
-| GPU ingênua   | 32×32     |           |        |
-| GPU otimizada | 32×32     |           |        |
+
+| Versão         | Block Size | Tempo (ms) |
+|---------------|-----------|-----------|
+| CPU           | -         |           |
+| GPU ingênua   | -       |           |
+| GPU otimizada | 8×8       |           |
+| GPU otimizada | 16×16     |           |
+| GPU otimizada | 32×32     |           |
+
 
 ### 4. Análise
 
